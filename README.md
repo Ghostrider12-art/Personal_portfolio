@@ -5,12 +5,6 @@ This site showcases my professional journey, technical skills, featured projects
 
 ---
 
-## 🚀 Live Demo
-
-🌍 [Your Live Portfolio Link Here](https://your-live-link.com)  
-> _(Hosted on GitHub Pages / Netlify / Vercel)_
-
----
 
 ## ✨ Features
 
