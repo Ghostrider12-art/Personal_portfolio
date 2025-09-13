@@ -38,9 +38,6 @@ rahul-portfolio/
 ├── script.js
 └── README.md
 ```
-
----
-
 ---
 
 ## 🙋 About Me
@@ -50,4 +47,3 @@ Hi, I’m **Rahul Chawla** — a data analyst, machine learning enthusiast, and 
 
 ---
 
-> ⭐ Star this repo if you like the work, and feel free to fork or contribute!
