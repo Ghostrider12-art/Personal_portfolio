@@ -41,33 +41,6 @@ rahul-portfolio/
 
 ---
 
-## 🧠 How to Use
-
-1. **Clone the Repo**
-   ```bash
-   git clone https://github.com/yourusername/rahul-portfolio.git
-   ```
-
-2. **Open in Browser**
-   - Use VS Code Live Server OR just open `index.html` in your browser
-
-3. **Customize**
-   - Replace placeholder projects, skills, profile image, and links with your own
-
-
----
-
-## 🌍 Deployment Options
-
-- [ ] GitHub Pages  
-- [ ] Netlify  
-- [ ] Vercel  
-
-Instructions for Netlify:
-1. Sign in at [Netlify.com](https://www.netlify.com/)
-2. Click **"New Site from Git"**
-3. Connect your repo and deploy. Done!
-
 ---
 
 ## 🙋 About Me
